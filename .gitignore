@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.idea/
+data/
+outputs/
+.env
+*.log
+*.jsonl
+*.zip
